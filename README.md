@@ -4,6 +4,10 @@
 
 Welcome to the GitHub repository for our captivating Airline Dashboard – a comprehensive solution for visualizing and managing airline operations data.
 
+## Tableau Dashboard
+
+Explore the live Tableau Dashboard [here](https://public.tableau.com/app/profile/sudheer.pulapa/viz/SFOFlightDataDashboardAirLineDataset/SFOFlightDataDashboard?publish=yes).
+
 ## Dynamic Queries
 
 ### 1. Total Flight Extravaganza
